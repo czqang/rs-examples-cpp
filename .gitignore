@@ -1,0 +1,58 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/pose/x64
+/pose-predict/x64
+/.vs
+/align/x64
+/align-advanced/x64
+/ar-basic/x64
+/callback/x64
+/capture/x64
+/dnn/x64
+/grabcuts/x64
+/hello-realsense/x64
+/im-show/x64
+/measure/x64
+/motion/x64
+/multicam/x64
+/pointcloud/x64
+/post-processing/x64
+/record-playback/x64
+/save-to-disk/x64
+*.csv
+*.png
+/sensor-control/x64
+/software-device/x64
+/trajectory/x64
+/x64
+*.bag
